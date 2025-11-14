@@ -1,0 +1,38 @@
+[2024-01-01 10:00:00] INFO: Application started successfully
+[2024-01-01 10:05:00] INFO: User mehrzadgolabi@gmail.com logged in
+[2024-01-01 10:10:00] WARNING: Memory usage at 85%
+[2024-01-01 10:15:00] ERROR: Database connection failed
+[2024-01-01 10:20:00] INFO: Retrying connection
+[2024-01-01 10:25:00] ERROR: Connection timeout occurred
+[2024-01-01 10:30:00] INFO: Connection restored
+[2024-01-01 11:00:00] INFO: Server started on port 8080
+[2024-01-01 11:05:00] WARNING: High CPU usage detected
+[2024-01-01 11:10:00] INFO: Request processed: /api/users
+[2024-01-01 11:15:00] ERROR: Failed to process request
+[2024-01-01 11:20:00] INFO: Request processed: /api/data
+[2024-01-01 11:25:00] WARNING: Disk space at 90%
+[2024-01-01 12:00:00] INFO: GET /index.html - 200 OK
+[2024-01-01 12:05:00] INFO: GET /about.html - 200 OK
+[2024-01-01 12:10:00] INFO: POST /api/login - 200 OK
+[2024-01-01 12:15:00] ERROR: GET /invalid - 404 Not Found
+[2024-01-01 12:20:00] INFO: GET /contact.html - 200 OK
+Contact: 09123456789
+Email: support@company.com
+Phone: 09129876543
+email@domain.org
+# Configuration file loaded
+# System check completed
+error: minor issue detected
+warning: low disk space
+123
+456
+7890
+12345
+645
+cat
+cot
+cut
+ct
+caat
+cattt
+
