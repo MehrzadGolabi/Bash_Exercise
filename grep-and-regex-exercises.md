@@ -12,7 +12,7 @@ Using `sample.log`, complete the following tasks:
 4. Search for "INFO" and count the results
 
 ---
-  ## Exercise 2: Grep Options
+## Exercise 2: Grep Options
 
 Using `sample.log`, complete the following tasks:
 
